@@ -1,5 +1,5 @@
 import textwrap
-
+# -*- coding: utf-8 -*-
 
 class Usuario:
     def __init__(self, nome, data_nascimento, cpf, endereco):
